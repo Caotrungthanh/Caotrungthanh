@@ -1,7 +1,7 @@
 ### Hi there, I'm Thành - myCV [ThanhCV][website] 👋
 
-[![Website](https://img.shields.io/website?label=thanhcaocv.com&style=for-the-badge&url=https%3A%2F%2Fcaotrungthanh.com)](http://thanhcaocv.freevnn.com)
-[![Facebook Follow]![Website](https://img.shields.io/website?down_message=facebook&label=facebook&logo=facebook&style=for-the-badge&up_message=info&url=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D100011687654562))](https://www.facebook.com/profile.php?id=100011687654562)
+[![Website](https://img.shields.io/website?label=thanhcaocv.com&style=for-the-badge&url=https%3A%2F%2Fcaotrungthanh.com&up_message=up)](http://thanhcaocv.freevnn.com)
+[![Website](https://img.shields.io/website?down_message=facebook&label=facebook&logo=facebook&style=for-the-badge&up_message=info&url=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D100011687654562)](https://www.facebook.com/profile.php?id=100011687654562)
 
 ## I'm a Front-end Developer!!
 
