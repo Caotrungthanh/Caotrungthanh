@@ -19,7 +19,7 @@
 
 [<img align="left" alt="thanhcaocv.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="thanhcao | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="thanhcao | Twitter" width="22px" src="https://cdn.jsdelihttps://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/facebook.svg" />][facebook]
+[<img align="left" alt="thanhcao | Facebook" width="22px" src="https://cdn.jsdelihttps://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/facebook.svg" />][facebook]
 [<img align="left" alt="thanhcao | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="thanhcao | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
