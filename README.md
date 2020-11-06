@@ -1,21 +1,21 @@
 ### Hi there, I'm Thành - myCV [ThanhCV][website] 👋
 
-[![Website](https://img.shields.io/website?label=thanhcaocv.com&style=for-the-badge&url=https%3A%2F%2Fthanhcaocv.freevnn.com&up_message=up)](http://thanhcaocv.freevnn.com)
+[![Website](https://img.shields.io/website?label=thanhcaocv.com&style=for-the-badge&url=https%3A%2F%2Fwww.thanhcaocv.freevnn.com&up_message=up)](http://thanhcaocv.freevnn.com)
 [![Website](https://img.shields.io/website?down_message=facebook&label=facebook&logo=facebook&style=for-the-badge&up_message=info&url=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D100011687654562)](https://www.facebook.com/profile.php?id=100011687654562)
 
 ## I'm a Front-end Developer!!
 
 - 🎋 I’m currently learning React  🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🌵 I’m love design website and learning more about front-end
 - 🥅 2020 Goals: learn and develop knowledge into projects
 - ⚡ Fun fact: I love to < programming 💻/>, play video game 🎮 and sport (🏀, 🏸, ⚽) 
 - 🏫 I’m graduated from college with GPA (2.78 / 4)
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="My Spotify Playing" width="350" />](https://open.spotify.com/playlist/1CE9BFMegHDKeqpghupUqL)
+[<img src="https://open.spotify.com/playlist/1CE9BFMegHDKeqpghupUqL" alt="My Spotify Playing" width="350" />](https://open.spotify.com/playlist/1CE9BFMegHDKeqpghupUqL)
 
-### 🌾 Connect with me:
+### Connect with me 🦄
 
 [<img align="left" alt="thanhcaocv.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="thanhcao | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -50,7 +50,7 @@
 - [Chat-App (React & Socket.IO)](https://5f4a54b686e537d7e6edafef--keen-mirzakhani-4c6878.netlify.app/?fbclid=IwAR1MSLlnmUMUp7gpNYY633XlQ-QW_3is4zuHPEc2L3o1i9YQxJ8bp_9vjhk)
 <!-- RECENT-PROJECT-LIST:END -->
 
-➡️ [more blog posts...][website]
+➡️ [more projects posts...][website]
 
 ---
 
