@@ -1,7 +1,7 @@
 ### Hi there, I'm Thành - myCV [ThanhCV][website] 👋
 
 [![Website](https://img.shields.io/website?label=thanhcaocv.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://thanhcaocv.freevnn.com)
-[![Facebook Follow](https://img.shields.io/facebook/follow/caotrungthanh?color=1DA1F2&logo=facebook&style=for-the-badge)](https://www.facebook.com/profile.php?id=100011687654562)
+[![Facebook Follow](https://img.shields.io/badge/Facebook-info-blue)](https://www.facebook.com/profile.php?id=100011687654562)
 
 ## I'm a Front-end Developer!!
 
